@@ -1,0 +1,11 @@
+# Ignore all .csv files
+*.csv
+
+# Ignore all .pkl files
+*.pkl
+
+# Ignore the folder 'pres'
+pres/
+
+# Ignore the folder 'chromedriver-win64'
+chromedriver-win64/
